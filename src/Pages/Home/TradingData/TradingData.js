@@ -62,9 +62,9 @@ const TradingData = () => {
                 <CartesianGrid strokeDasharray="3 3" />
                 <Tooltip />
                 <Line type="monotone" dataKey="open" stroke="#8884d8" />
-                <Line type="monotone" dataKey="high" stroke="#82ca9d" />
-                <Line type="monotone" dataKey="low" stroke="#82ca9d" />
-                <Line type="monotone" dataKey="close" stroke="#82ca9d" />
+                <Line type="monotone" dataKey="high" stroke="#E83711" />
+                <Line type="monotone" dataKey="low" stroke="#115CE8" />
+                <Line type="monotone" dataKey="close" stroke="#E0D908" />
             </LineChart>
         </div>
     );
